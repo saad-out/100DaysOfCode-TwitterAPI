@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+cat > ~/100DaysOfCode-TwitterAPI/tweet/tweet.txt
+~/100DaysOfCode-TwitterAPI/tweet/main.py
+echo "DONE"
